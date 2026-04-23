@@ -11,7 +11,7 @@
 *A consolidated and standardized North American dataset for exploratory analysis, comparative research, and data-driven tourism studies*
 
 ### :link: Quick Links
-[![Quick Start](https://img.shields.io/badge/Quick-Start-green)](#rocket-quick-start) [![Requirements](https://img.shields.io/badge/Setup-Requirements-blue)](#package-installation--requirements) [![Dataset](https://img.shields.io/badge/Data-Dataset-blue)](#open_file_folder-dataset-overview) [![Formats](https://img.shields.io/badge/Data-Formats-purple)](#file_cabinet-data-formats) [![Structure](https://img.shields.io/badge/Repo-Structure-purple)](#open_file_folder-project-architecture) [![Methodology](https://img.shields.io/badge/Research-Methodology-darkgreen)](#books-methodology) [![Quality](https://img.shields.io/badge/Data-Quality-darkgreen)](#white_check_mark-data-quality-and-standardization) [![Authors](https://img.shields.io/badge/Project-Authors-blue)](#scientist-authors) [![FAQ](https://img.shields.io/badge/Help-FAQ-lightgrey)](#speech_balloon-faq)
+[![Quick Start](https://img.shields.io/badge/Quick-Start-green)](#rocket-quick-start) [![Requirements](https://img.shields.io/badge/Setup-Requirements-blue)](#package-installation--requirements) [![Dataset](https://img.shields.io/badge/Data-Dataset-blue)](#open_file_folder-dataset-overview) [![Formats](https://img.shields.io/badge/Data-Formats-purple)](#file_cabinet-data-formats) [![Structure](https://img.shields.io/badge/Repo-Structure-purple)](#open_file_folder-project-architecture) [![Methodology](https://img.shields.io/badge/Research-Methodology-darkgreen)](#books-methodology) [![Quality](https://img.shields.io/badge/Data-Quality-darkgreen)](#white_check_mark-data-quality-and-standardization) [![Authors](https://img.shields.io/badge/Project-Authors-blue)](#scientist-authors) [![Acknowledgments](https://img.shields.io/badge/Support-Acknowledgments-darkgreen)](#pray-acknowledgments) [![Contact](https://img.shields.io/badge/Contact-Support-blue)](#email-contact--support) [![FAQ](https://img.shields.io/badge/Help-FAQ-lightgrey)](#speech_balloon-faq)
 
 </div>
 
@@ -34,6 +34,8 @@
 - [Authors](#scientist-authors)
 - [Citation and Usage Notes](#memo-citation-and-usage-notes)
 - [License](#page_with_curl-license)
+- [Acknowledgments](#pray-acknowledgments)
+- [Contact & Support](#email-contact--support)
 - [FAQ](#speech_balloon-faq)
 
 ---
@@ -509,6 +511,146 @@ This repository is distributed under the **MIT License**.
 
 ---
 
+## :pray: Acknowledgments
+
+<div align="center">
+
+### :heart: Institutional Support and Collaborations
+*We gratefully acknowledge the institutions and collaborations that support the research environment around this project*
+
+</div>
+
+### :classical_building: Institutional Support
+
+<table align="center" width="100%" cellspacing="14">
+  <tr>
+    <td width="33%" valign="top">
+      <div style="border: 1px solid #d0d7de; border-radius: 12px; padding: 16px;">
+        <div align="center">
+          <b>🎓 UMSNH</b><br/>
+          <sub>Universidad Michoacana de San Nicolas de Hidalgo</sub><br/><br/>
+          <a href="http://www.umich.mx"><img alt="Website" src="https://img.shields.io/badge/Website-UMSNH-1A3A6B?style=flat-square"></a>
+          <img alt="Type: University" src="https://img.shields.io/badge/Type-University-1A3A6B?style=flat-square">
+        </div>
+        <br/>
+        <b>Support highlights</b>
+        <ul>
+          <li>Academic environment for research development</li>
+          <li>Institutional support for scientific work and dissemination</li>
+        </ul>
+      </div>
+    </td>
+    <td width="33%" valign="top">
+      <div style="border: 1px solid #d0d7de; border-radius: 12px; padding: 16px;">
+        <div align="center">
+          <b>🔬 SECIHTI</b><br/>
+          <sub>Secretaria de Ciencia, Humanidades, Tecnologia e Innovacion</sub><br/><br/>
+          <img alt="Type: Government" src="https://img.shields.io/badge/Type-Government-2D6A4F?style=flat-square">
+          <img alt="Support: Research" src="https://img.shields.io/badge/Support-Scientific%20Research-40916C?style=flat-square">
+        </div>
+        <br/>
+        <b>Support highlights</b>
+        <ul>
+          <li>Support for science, humanities, technology, and innovation activities</li>
+          <li>Contribution to an open and research-oriented ecosystem</li>
+        </ul>
+      </div>
+    </td>
+    <td width="33%" valign="top">
+      <div style="border: 1px solid #d0d7de; border-radius: 12px; padding: 16px;">
+        <div align="center">
+          <b>🏢 SIIIA MATH</b><br/>
+          <sub>Soluciones en Ingenieria e Inteligencia Artificial</sub><br/><br/>
+          <a href="http://www.siiia.com.mx"><img alt="Website" src="https://img.shields.io/badge/Website-SIIIA%20MATH-0B1B3A?style=flat-square"></a>
+          <img alt="Type: Research and Industry" src="https://img.shields.io/badge/Type-Research%20%26%20Industry-0B1B3A?style=flat-square">
+        </div>
+        <br/>
+        <b>Support highlights</b>
+        <ul>
+          <li>Applied perspective for data-driven research</li>
+          <li>Collaboration between academic and technical environments</li>
+        </ul>
+      </div>
+    </td>
+  </tr>
+</table>
+
+### :handshake: Collaborations
+
+- Collaboration between academic research and applied technical practice helped shape the preparation and publication of this dataset.
+- The project benefits from an environment that connects data extraction, standardization, and open dissemination workflows.
+
+---
+
+## :email: Contact & Support
+
+<div align="center">
+
+*Contact channels for academic questions, repository issues, and collaboration opportunities*
+
+[![Issues](https://img.shields.io/badge/GitHub-Issues-24292f?style=flat-square&logo=github)](https://github.com/gstinoco/ALANA/issues)
+[![Email](https://img.shields.io/badge/Email-Support-blue?style=flat-square)](mailto:gerardo.tinoco@umich.mx)
+
+</div>
+
+<table align="center" width="100%" cellspacing="14">
+  <tr>
+    <td valign="top" style="border: 1px solid #d0d7de; border-radius: 12px; padding: 16px;">
+      <div align="center">
+        <b>Primary Contact</b><br/>
+        <sub>Repository coordination and research inquiries</sub>
+      </div>
+      <br/>
+      <b>Dr. Gerardo Tinoco-Guerrero</b><br/>
+      <sub>Morelia, Michoacan, Mexico</sub>
+      <br/><br/>
+      <div align="center">
+        <a href="mailto:gerardo.tinoco@umich.mx"><img alt="Email" src="https://img.shields.io/badge/Email-gerardo.tinoco%40umich.mx-blue?style=flat-square"></a>
+        <a href="http://www.siiia.com.mx"><img alt="SIIIA MATH" src="https://img.shields.io/badge/Affiliation-SIIIA%20MATH-0B1B3A?style=flat-square"></a>
+        <a href="http://www.umich.mx"><img alt="UMSNH" src="https://img.shields.io/badge/Affiliation-UMSNH-1A3A6B?style=flat-square"></a>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" style="border: 1px solid #d0d7de; border-radius: 12px; padding: 16px;">
+      <div align="center">
+        <b>Additional Academic Contact</b><br/>
+        <sub>Methodological questions and academic communication</sub>
+      </div>
+      <br/>
+      <b>Dr. Narciso Salvador Tinoco Guerrero</b><br/>
+      <sub>Morelia, Michoacan, Mexico</sub>
+      <br/><br/>
+      <div align="center">
+        <a href="mailto:narciso.tinoco@umich.mx"><img alt="Email" src="https://img.shields.io/badge/Email-narciso.tinoco%40umich.mx-blue?style=flat-square"></a>
+        <a href="http://www.umich.mx"><img alt="UMSNH" src="https://img.shields.io/badge/Affiliation-UMSNH-1A3A6B?style=flat-square"></a>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" style="border: 1px solid #d0d7de; border-radius: 12px; padding: 16px;">
+      <div align="center">
+        <b>Support Channels</b><br/>
+        <sub>Bug reports, documentation issues, and collaboration requests</sub>
+      </div>
+      <br/>
+      <div align="center">
+        <a href="https://github.com/gstinoco/ALANA/issues"><img alt="Open an Issue" src="https://img.shields.io/badge/Open-Issue-24292f?style=flat-square&logo=github"></a>
+        <a href="mailto:gerardo.tinoco@umich.mx"><img alt="Send Email" src="https://img.shields.io/badge/Send-Email-blue?style=flat-square"></a>
+        <a href="mailto:gerardo.tinoco@umich.mx?subject=ALANA%20Collaboration"><img alt="Request Collaboration" src="https://img.shields.io/badge/Request-Collaboration-2E8B57?style=flat-square"></a>
+      </div>
+      <br/>
+      <ul>
+        <li><b>Issues</b> for repository problems or suggested improvements</li>
+        <li><b>Email</b> for academic, technical, or reuse-related questions</li>
+        <li><b>Collaboration</b> for research partnerships and related initiatives</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## :speech_balloon: FAQ
 
 ### What is ALANA?
@@ -527,3 +669,15 @@ Yes. They share the same schema and can be concatenated after adding a `Country`
 In most cases, the final files are ready for direct analysis, although your specific workflow may still require custom transformations.
 
 ---
+
+<div align="center">
+
+*Supporting open and reusable historical tourism data for research and analysis*
+
+[![GitHub stars](https://img.shields.io/github/stars/gstinoco/ALANA?style=social)](https://github.com/gstinoco/ALANA/stargazers) [![GitHub forks](https://img.shields.io/github/forks/gstinoco/ALANA?style=social)](https://github.com/gstinoco/ALANA/network/members) [![GitHub watchers](https://img.shields.io/github/watchers/gstinoco/ALANA?style=social)](https://github.com/gstinoco/ALANA/watchers)
+
+<br/>
+
+<b>If this dataset supports your work, please consider giving the repository a star.</b>
+
+</div>
